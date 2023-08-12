@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1018304997512",
+    "project_id": "med2023-94215",
+    "storage_bucket": "med2023-94215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018304997512:android:26677c00e85e100e8f573d",
+        "android_client_info": {
+          "package_name": "com.anila.medify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018304997512-1ilt6t38k5qbk98b0kr1tervaa7eutj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCJ4u_WESv57EAqfVYBvywJDrWwb4eTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018304997512-1ilt6t38k5qbk98b0kr1tervaa7eutj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018304997512-7dqm9pp910kg3gq3f24jkr25566n7r6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nBaz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018304997512:android:6a663c1664e4cb938f573d",
+        "android_client_info": {
+          "package_name": "com.kritima.medify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018304997512-1ilt6t38k5qbk98b0kr1tervaa7eutj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCJ4u_WESv57EAqfVYBvywJDrWwb4eTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018304997512-1ilt6t38k5qbk98b0kr1tervaa7eutj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018304997512-7dqm9pp910kg3gq3f24jkr25566n7r6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nBaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
